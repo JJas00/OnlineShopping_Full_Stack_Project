@@ -1,0 +1,13 @@
+**Database Name: ecommerceapp**
+
+**Developed by Jaswanth Jerripothula**
+
+
+**Admin Login Details**
+
+Email:    jaswanthjerripothula00@gmail.com
+Password: jaswanth00
+
+Or you can register for yourself to get Login
+
+**Project Folder should not be changed from "OnlineShopping" **
